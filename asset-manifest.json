@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/climatewebsite/static/css/main.67c35d8e.css",
+    "main.js": "/climatewebsite/static/js/main.d174894d.js",
+    "index.html": "/climatewebsite/index.html",
+    "main.67c35d8e.css.map": "/climatewebsite/static/css/main.67c35d8e.css.map",
+    "main.d174894d.js.map": "/climatewebsite/static/js/main.d174894d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c35d8e.css",
+    "static/js/main.d174894d.js"
+  ]
+}
